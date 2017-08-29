@@ -1,4 +1,5 @@
 # bamazon
+The following images shown below shows the mySQL database stock_quantity being updated after the user has made a purchase. <br>
 ![screen shot 2017-08-28 at 11 13 00 pm](https://user-images.githubusercontent.com/28886343/29832151-180bfffc-8c9c-11e7-9f66-26662cfb4f04.png)<br>
 ![screen shot 2017-08-28 at 11 13 14 pm](https://user-images.githubusercontent.com/28886343/29832233-6293b538-8c9c-11e7-9874-ef04f79a1298.png)
 
